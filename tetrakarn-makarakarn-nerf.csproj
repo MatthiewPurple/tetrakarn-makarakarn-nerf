@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <RootNamespace>tetrakarn_makarakarn_nerf_one_ally</RootNamespace>
-    <AssemblyName>tetrakarn_makarakarn_nerf_one_ally</AssemblyName>
+    <RootNamespace>tetrakarn_makarakarn_nerf_self_only</RootNamespace>
+    <AssemblyName>tetrakarn_makarakarn_nerf_self_only</AssemblyName>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
