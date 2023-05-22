@@ -20,7 +20,7 @@ public class TetrakarnMakarakarnNerf : MelonMod
                     __result = "Repels Magical attacks \nonce next turn."; // Makarakarn
                     break;
                 case 70:
-                    __result = "Repels Physiccal attacks \nonce next turn."; // Tetrakarn
+                    __result = "Repels Physical attacks \nonce next turn."; // Tetrakarn
                     break;
             }
         }
@@ -38,7 +38,7 @@ public class TetrakarnMakarakarnNerf : MelonMod
                     __result = "Repels Magical attacks \nonce next turn."; // Magic Mirror
                     break;
                 case 35:
-                    __result = "Repels Physiccal attacks \nonce next turn."; // Attack Mirror
+                    __result = "Repels Physical attacks \nonce next turn."; // Attack Mirror
                     break;
             }
         }
